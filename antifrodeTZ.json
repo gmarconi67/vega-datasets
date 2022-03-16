@@ -1,0 +1,6 @@
+[{"operatore": 2, "durata": 2, "timestsamp": 10},
+{"operatore": 2, "durata": 3, "timestsamp": 13},
+{"operatore": 2, "durata": 4, "timestsamp": 19},
+{"operatore": 1, "durata": 2, "timestsamp": 14},
+{"operatore": 1, "durata": 3, "timestsamp": 17},
+{"operatore": 1, "durata": 4, "timestsamp": 23}]
